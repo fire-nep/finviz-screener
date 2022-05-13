@@ -1,37 +1,112 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/fire-nep/finviz-screener/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fire-nep/finviz-screener/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div style="color:#1A1A1B" class="_292iotee39Lmt0MkQZ2hPV RichTextJSON-root">
+    <p class="_1qeIAgB0cPwnLhDF9XSiJM">Re-formatted OP's list for my eyes. Saving these links.</p>
+    <ol class="_1eJr7K139jnMstd4HajqYP">
+        <li class="_3gqTEjt4x9UIIpWiro7YXz">
+            <p class="_1qeIAgB0cPwnLhDF9XSiJM"><a
+                    href="https://finviz.com/screener.ashx?v=131&amp;f=cap_smallover,geo_usa,sh_avgvol_o500,sh_curvol_o500,sh_opt_optionshort,sh_price_o3,sh_relvol_o1,sh_short_high&amp;o=-shortinterestshare"
+                    class="_3t5uN8xUmg0TOwRCOGQEcU" rel="noopener nofollow ugc" target="_blank">Shorted stocks</a></p>
+        </li>
+        <li class="_3gqTEjt4x9UIIpWiro7YXz">
+            <p class="_1qeIAgB0cPwnLhDF9XSiJM"><a
+                    href="https://finviz.com/screener.ashx?v=131&amp;f=sh_avgvol_o100,sh_instown_u50,sh_price_o2,sh_short_o15&amp;ft=4&amp;o=-shortinterestshare"
+                    class="_3t5uN8xUmg0TOwRCOGQEcU" rel="noopener nofollow ugc" target="_blank">Short squeeze</a></p>
+        </li>
+        <li class="_3gqTEjt4x9UIIpWiro7YXz">
+            <p class="_1qeIAgB0cPwnLhDF9XSiJM"><a
+                    href="https://finviz.com/screener.ashx?v=141&amp;f=earningsdate_tomorrowafter,sh_avgvol_o400,sh_curvol_o50,sh_short_u25,ta_averagetruerange_o0.5,ta_gap_u2&amp;ft=4&amp;o=-perfytd"
+                    class="_3t5uN8xUmg0TOwRCOGQEcU" rel="noopener nofollow ugc" target="_blank">Weekly Earnings gap
+                    up</a></p>
+        </li>
+        <li class="_3gqTEjt4x9UIIpWiro7YXz">
+            <p class="_1qeIAgB0cPwnLhDF9XSiJM"><a
+                    href="https://finviz.com/screener.ashx?v=131&amp;f=fa_pb_low,sh_short_o30&amp;ft=4&amp;o=-shortinterestshare"
+                    class="_3t5uN8xUmg0TOwRCOGQEcU" rel="noopener nofollow ugc" target="_blank">Bankruptcy squeeze
+                    candidates</a></p>
+        </li>
+        <li class="_3gqTEjt4x9UIIpWiro7YXz">
+            <p class="_1qeIAgB0cPwnLhDF9XSiJM"><a
+                    href="https://finviz.com/screener.ashx?v=141&amp;f=sh_avgvol_o400,ta_pattern_channelup,ta_perf_1wdown&amp;ft=4&amp;o=perf1w"
+                    class="_3t5uN8xUmg0TOwRCOGQEcU" rel="noopener nofollow ugc" target="_blank">Potential uptrend from
+                    weekly lows</a></p>
+        </li>
+        <li class="_3gqTEjt4x9UIIpWiro7YXz">
+            <p class="_1qeIAgB0cPwnLhDF9XSiJM"><a
+                    href="https://finviz.com/screener.ashx?v=141&amp;f=sh_avgvol_o400,sh_curvol_o2000,sh_relvol_o1,ta_sma20_pa,ta_sma50_pb&amp;ft=4&amp;o=-perf1w"
+                    class="_3t5uN8xUmg0TOwRCOGQEcU" rel="noopener nofollow ugc" target="_blank">Bounce at moving
+                    average</a></p>
+        </li>
+        <li class="_3gqTEjt4x9UIIpWiro7YXz">
+            <p class="_1qeIAgB0cPwnLhDF9XSiJM"><a
+                    href="https://finviz.com/screener.ashx?v=111&amp;f=sh_price_o5,sh_relvol_o2,ta_change_u,ta_rsi_os30&amp;ft=4&amp;o=price"
+                    class="_3t5uN8xUmg0TOwRCOGQEcU" rel="noopener nofollow ugc" target="_blank">Oversold reversal</a>
+            </p>
+        </li>
+        <li class="_3gqTEjt4x9UIIpWiro7YXz">
+            <p class="_1qeIAgB0cPwnLhDF9XSiJM"><a
+                    href="https://finviz.com/screener.ashx?v=141&amp;f=cap_smallover,earningsdate_thismonth,fa_epsqoq_o15,fa_grossmargin_o20,sh_avgvol_o750,sh_curvol_o1000,ta_perf_52w10o,ta_rsi_nob50&amp;ft=4&amp;o=perfytd"
+                    class="_3t5uN8xUmg0TOwRCOGQEcU" rel="noopener nofollow ugc" target="_blank">Oversold with upcoming
+                    earnings</a></p>
+        </li>
+        <li class="_3gqTEjt4x9UIIpWiro7YXz">
+            <p class="_1qeIAgB0cPwnLhDF9XSiJM"><a
+                    href="https://finviz.com/screener.ashx?v=141&amp;f=an_recom_buy,sh_price_u7,ta_change_u,ta_highlow20d_nh,ta_highlow50d_nh,ta_highlow52w_nh,ta_perf_dup&amp;ft=4&amp;o=-perf1w"
+                    class="_3t5uN8xUmg0TOwRCOGQEcU" rel="noopener nofollow ugc" target="_blank">New highs</a></p>
+        </li>
+        <li class="_3gqTEjt4x9UIIpWiro7YXz">
+            <p class="_1qeIAgB0cPwnLhDF9XSiJM"><a
+                    href="https://finviz.com/screener.ashx?v=141&amp;f=fa_debteq_u1,fa_roe_o20,sh_avgvol_o100,ta_highlow50d_nh,ta_sma20_pa,ta_sma200_pa,ta_sma50_pa&amp;ft=4&amp;o=-perf1w"
+                    class="_3t5uN8xUmg0TOwRCOGQEcU" rel="noopener nofollow ugc" target="_blank">Breaking out</a></p>
+        </li>
+        <li class="_3gqTEjt4x9UIIpWiro7YXz">
+            <p class="_1qeIAgB0cPwnLhDF9XSiJM"><a
+                    href="https://finviz.com/screener.ashx?v=141&amp;f=fa_pe_profitable,sh_avgvol_o400,sh_relvol_o1,sh_short_low,ta_beta_o1,ta_sma50_cross20b&amp;ft=4"
+                    class="_3t5uN8xUmg0TOwRCOGQEcU" rel="noopener nofollow ugc" target="_blank">SMA crossover</a></p>
+        </li>
+        <li class="_3gqTEjt4x9UIIpWiro7YXz">
+            <p class="_1qeIAgB0cPwnLhDF9XSiJM"><a
+                    href="https://finviz.com/screener.ashx?v=141&amp;f=fa_epsqoq_o25,fa_epsyoy_o25,fa_epsyoy1_o25,fa_salesqoq_o25,sh_avgvol_o400,ta_rsi_nos50,ta_sma200_pa&amp;ft=4&amp;o=-perfytd"
+                    class="_3t5uN8xUmg0TOwRCOGQEcU" rel="noopener nofollow ugc" target="_blank">High Earnings growth</a>
+            </p>
+        </li>
+        <li class="_3gqTEjt4x9UIIpWiro7YXz">
+            <p class="_1qeIAgB0cPwnLhDF9XSiJM"><a
+                    href="https://finviz.com/screener.ashx?v=111&amp;f=fa_debteq_u0.5,fa_roe_o15,fa_sales5years_o20,fa_salesqoq_o20,sh_avgvol_o200,sh_instown_o60,sh_price_o5,sh_short_u5&amp;ft=4"
+                    class="_3t5uN8xUmg0TOwRCOGQEcU" rel="noopener nofollow ugc" target="_blank">High Sales growth</a>
+            </p>
+        </li>
+        <li class="_3gqTEjt4x9UIIpWiro7YXz">
+            <p class="_1qeIAgB0cPwnLhDF9XSiJM"><a
+                    href="https://finviz.com/screener.ashx?v=131&amp;f=fa_curratio_o1,fa_epsqoq_o15,fa_quickratio_o1,fa_salesqoq_o15,sh_avgvol_o400,sh_price_o5,sh_relvol_o1.5,ta_sma20_pa,ta_sma200_sb50,ta_sma50_sa200&amp;ft=4&amp;o=instown"
+                    class="_3t5uN8xUmg0TOwRCOGQEcU" rel="noopener nofollow ugc" target="_blank">High relative volume</a>
+            </p>
+        </li>
+        <li class="_3gqTEjt4x9UIIpWiro7YXz">
+            <p class="_1qeIAgB0cPwnLhDF9XSiJM"><a
+                    href="https://finviz.com/screener.ashx?v=141&amp;f=fa_eps5years_pos,fa_epsqoq_o20,fa_epsyoy_o25,fa_epsyoy1_o15,fa_estltgrowth_pos,fa_roe_o15,sh_instown_o10,sh_price_o15,ta_highlow52w_a90h,ta_rsi_nos50&amp;ft=4&amp;o=-perfytd"
+                    class="_3t5uN8xUmg0TOwRCOGQEcU" rel="noopener nofollow ugc" target="_blank">Consistent growth on a
+                    bullish trend</a></p>
+        </li>
+        <li class="_3gqTEjt4x9UIIpWiro7YXz">
+            <p class="_1qeIAgB0cPwnLhDF9XSiJM"><a
+                    href="https://finviz.com/screener.ashx?v=121&amp;f=cap_microover,fa_curratio_o1.5,fa_estltgrowth_o10,fa_peg_o1,fa_roe_o15,ta_beta_o1.5,ta_sma20_pa&amp;ft=4&amp;o=-forwardpe"
+                    class="_3t5uN8xUmg0TOwRCOGQEcU" rel="noopener nofollow ugc" target="_blank">Buy and Hold value</a>
+            </p>
+        </li>
+        <li class="_3gqTEjt4x9UIIpWiro7YXz">
+            <p class="_1qeIAgB0cPwnLhDF9XSiJM"><a
+                    href="https://finviz.com/screener.ashx?v=111&amp;f=cap_largeover,fa_div_pos,fa_epsyoy1_o5,fa_estltgrowth_o5,fa_payoutratio_u50,fa_pe_u20,fa_peg_low&amp;ft=4&amp;o=-pe"
+                    class="_3t5uN8xUmg0TOwRCOGQEcU" rel="noopener nofollow ugc" target="_blank">Undervalued dividend
+                    growth</a></p>
+        </li>
+        <li class="_3gqTEjt4x9UIIpWiro7YXz">
+            <p class="_1qeIAgB0cPwnLhDF9XSiJM"><a
+                    href="https://finviz.com/screener.ashx?v=141&amp;f=cap_smallunder,fa_pb_low,fa_pe_low,fa_peg_low,fa_roa_pos,fa_roe_pos,sh_price_o5&amp;ft=4&amp;o=-perfytd"
+                    class="_3t5uN8xUmg0TOwRCOGQEcU" rel="noopener nofollow ugc" target="_blank">Low PE value</a></p>
+        </li>
+        <li class="_3gqTEjt4x9UIIpWiro7YXz">
+            <p class="_1qeIAgB0cPwnLhDF9XSiJM"><a
+                    href="https://finviz.com/screener.ashx?v=111&amp;f=fa_eps5years_o20,fa_epsqoq_o20,fa_epsyoy_o20,fa_sales5years_o20,fa_salesqoq_o20,sh_curvol_o200&amp;ft=4"
+                    class="_3t5uN8xUmg0TOwRCOGQEcU" rel="noopener nofollow ugc" target="_blank">CANSLIM</a></p>
+        </li>
+    </ol>
+</div>
